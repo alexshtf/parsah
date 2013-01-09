@@ -11,3 +11,8 @@
 *.lai
 *.la
 *.a
+
+*.exe
+*.dll
+*.obj
+*.lib
